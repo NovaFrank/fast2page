@@ -1,0 +1,30 @@
+{
+  "name": "fast2page",
+  "version": "1.0.0",
+  "description": "a vue  page builder  and render base avue",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovaFrank/fast2page.git"
+  },
+  "keywords": [
+    "vue",
+    "page",
+    "render",
+    "builder"
+  ],
+  "author": "Frank fan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NovaFrank/fast2page/issues"
+  },
+  "homepage": "https://github.com/NovaFrank/fast2page#readme",
+  "dependencies": {
+    "@smallwei/avue": "^2.4.1",
+    "element-ui": "^2.13.0",
+    "vue": "^2.6.11"
+  }
+}
