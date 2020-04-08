@@ -6,9 +6,9 @@
 
 <script>
 // import widgetEmpty from './assets/widget-empty.png';
-import Fast2Render from './components/render/widget/fast2render';
+import Fast2Render from "./components/render/widget/fast2render";
 export default {
-  name: 'PageDesign',
+  name: "PageRender",
   props: {
     option: {
       type: Object,
@@ -20,12 +20,12 @@ export default {
     }
   },
   // components: { MohoRender, widgetEmpty },
-  components: { Fast2Render },
+  components: { Fast2Render }
 };
 </script>
 
 <style lang="scss">
-@import './styles/index.scss';
+@import "./styles/index.scss";
 .page-render {
   padding: 10px;
 }
